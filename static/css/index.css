@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.prime-line-divider {
+  opacity: 0.6;
+  background-image: radial-gradient(circle, #e18b3fcc, #e18b3f33);
+  width: 100%;
+  height: 1px;
+  margin-bottom: 2rem;
+}
+.text-prime-liner {
+  background-image: linear-gradient(90deg, #e18b3f, #e18b3f);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.top {
+  background-image: linear-gradient(0deg, #10101000, #000000);
+}
+
+.stroke-rectangle {
+  z-index: 1;
+  opacity: 0.1;
+  background-image: linear-gradient(270deg, #fff3, #fff);
+  transition: opacity 0.3s;
+  position: absolute;
+  inset: 0%;
+}
+
+.gradient-text {
+  font-size: 3rem;
+  font-weight: bold;
+  background-image: linear-gradient(
+    to right,
+    #ff6512,
+    rgba(225, 139, 63, 0.84)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.is-gradient {
+  z-index: 2;
+  opacity: 1;
+  background-image: linear-gradient(
+    270deg,
+    #ff651233,
+    #ff6512cc 50%,
+    #ff651233
+  );
+}
+.cta-prime-line {
+  z-index: 6;
+  opacity: 0.6;
+  background-image: radial-gradient(circle, #ff6512, #e18b3f00);
+  width: auto;
+  height: 1px;
+  position: absolute;
+
+  top: 0%;
+  right: 4rem;
+  bottom: auto;
+  left: 4rem;
+}
+.footer-glow {
+  filter: blur(140px);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+  background-color: #ffd990;
+  border-radius: 50%;
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  inset: 0% auto auto;
+  transform: translateZ(0);
+}
+.bg-faq-icon {
+  z-index: 2;
+  opacity: 0;
+  background-image: linear-gradient(270deg, #fff3, #fff);
+  border-radius: 50%;
+  position: absolute;
+  inset: 0%;
+}
+.circle-stroke-liner {
+  z-index: 1;
+  opacity: 0.05;
+  background-image: linear-gradient(270deg, #fff3, #fff);
+  border-radius: 50%;
+  position: absolute;
+  inset: 0%;
+}
