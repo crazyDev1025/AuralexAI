@@ -35,7 +35,7 @@ export default function Hero() {
             </motion.h1>
           </div>
           <div className="flex md:flex-row items-center flex-col gap-4 justify-center">
-            <a href="https://app.auralexai.com" target="_blank">
+            <a href="https://app.auralexai.org" target="_blank">
               <motion.button
                 whileHover={{
                   scale: 1.05,

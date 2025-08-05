@@ -168,7 +168,7 @@ export default function Features() {
                     ))}
                   </div>
                 )}
-                <a href="https://app.auralexai.com" target="_blank">
+                <a href="https://app.auralexai.org" target="_blank">
                   <motion.button
                     whileHover={{
                       scale: 1.05,

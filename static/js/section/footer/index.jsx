@@ -22,7 +22,7 @@ export default function Footer() {
                   <Link
                     target="_blank"
                     rel="noopener noreferrer"
-                    to="https://auralex-ai.gitbook.io/auralex-ai"
+                    to="https://docs.auralexai.org"
                   >
                     <button className="bg-[#ffffff1f] backdrop-blur-[12px] text-white rounded-[6rem] h-[46px] px-[1.5rem] border border-[#ffffff1f] text-sm font-medium">
                       <SiGitbook className="text-[22px]" />
@@ -56,7 +56,7 @@ export default function Footer() {
                   <Link
                     target="_blank"
                     rel="noopener noreferrer"
-                    to="https://auralex-ai.gitbook.io/auralex-ai"
+                    to="https://docs.auralexai.org"
                   >
                     <h5>Whitepaper</h5>
                   </Link>
@@ -93,7 +93,7 @@ export default function Footer() {
                   <Link
                     target="_blank"
                     rel="noopener noreferrer"
-                    to="https://auralex-ai.gitbook.io/auralex-ai"
+                    to="https://docs.auralexai.org"
                   >
                     <button className="bg-[#ffffff1f] backdrop-blur-[12px] text-white rounded-[6rem] h-[46px] px-[1.5rem] border border-[#ffffff1f] text-sm font-medium">
                       <SiGitbook className="text-[22px]" />
@@ -102,7 +102,7 @@ export default function Footer() {
                   <Link
                     target="_blank"
                     rel="noopener noreferrer"
-                    to="https://x.com/Auralexaieth"
+                    to="https://x.com/AuralexAIDefi"
                   >
                     <button className="bg-[#ffffff1f] backdrop-blur-[12px] text-white rounded-[6rem] h-[46px] px-[1.5rem] border border-[#ffffff1f] text-sm font-medium">
                       <img src={twitter} alt="footer" />

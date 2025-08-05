@@ -22508,7 +22508,7 @@
                 (0, ga.jsx)(ou, {
                   target: "_blank",
                   rel: "noopener noreferrer",
-                  to: "https://auralex-ai.gitbook.io/auralex-ai",
+                  to: "https://docs.auralexai.org",
                   className: "hover:text-white transition-colors duration-300",
                   children: (0, ga.jsx)("h5", { children: "Whitepaper" }),
                 }),
@@ -22543,7 +22543,7 @@
                   }),
                 }),
                 (0, ga.jsx)("a", {
-                  href: "https://x.com/Auralexaieth",
+                  href: "https://x.com/AuralexAIDefi",
                   className:
                     "hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110",
                   target: "_blank",
@@ -22551,7 +22551,7 @@
                   children: (0, ga.jsx)(Ju, { size: 24 }),
                 }),
                 (0, ga.jsx)("a", {
-                  href: "https://t.me/Auralexai",
+                  href: "https://t.me/AuralexAIDefi",
                   className:
                     "hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110",
                   target: "_blank",
@@ -22595,7 +22595,7 @@
               (0, ga.jsx)(ou, {
                 target: "_blank",
                 rel: "noopener noreferrer",
-                to: "https://auralex-ai.gitbook.io/auralex-ai",
+                to: "https://docs.auralexai.org",
                 className: "text-[#C2C2C2] hover:text-white transition-colors",
                 children: (0, ga.jsx)("h5", { children: "Whitepaper" }),
               }),
@@ -22610,7 +22610,7 @@
                 className: "flex gap-4 items-center md:pb-0 pb-5 text-white",
                 children: [
                   (0, ga.jsx)("a", {
-                    href: "https://x.com/Auralexaieth",
+                    href: "https://x.com/AuralexAIDefi",
                     className:
                       "hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110",
                     target: "_blank",
@@ -22618,7 +22618,7 @@
                     children: (0, ga.jsx)(Ju, { size: 24 }),
                   }),
                   (0, ga.jsx)("a", {
-                    href: "https://t.me/Auralexai",
+                    href: "https://t.me/AuralexAIDefi",
                     className:
                       "hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110",
                     target: "_blank",
@@ -22681,7 +22681,7 @@
                     "flex md:flex-row items-center flex-col gap-4 justify-center",
                   children: [
                     (0, ga.jsx)("a", {
-                      href: "https://app.auralexai.com",
+                      href: "https://app.auralexai.org",
                       target: "_blank",
                       children: (0, ga.jsx)(ls.button, {
                         whileHover: {
@@ -22980,7 +22980,7 @@
                                 ),
                               }),
                             (0, ga.jsx)("a", {
-                              href: "https://app.auralexai.com",
+                              href: "https://app.auralexai.org",
                               target: "_blank",
                               children: (0, ga.jsx)(ls.button, {
                                 whileHover: {
@@ -23946,7 +23946,7 @@
                 ],
               }),
               (0, ga.jsx)("a", {
-                href: "https://app.auralexai.com/",
+                href: "https://app.auralexai.org/",
                 rel: "noreferrer",
                 target: "_blank",
                 children: (0, ga.jsx)(ls.button, {
@@ -24058,7 +24058,7 @@
                   "Join the future of crypto trading with Auralex AI. Start your free trial today and experience the difference.",
               }),
               (0, ga.jsx)("a", {
-                href: "https://app.auralexai.com",
+                href: "https://app.auralexai.org",
                 target: "_blank",
                 children: (0, ga.jsx)(ls.button, {
                   whileHover: {
@@ -24137,7 +24137,7 @@
                             (0, ga.jsx)(ou, {
                               target: "_blank",
                               rel: "noopener noreferrer",
-                              to: "https://auralex-ai.gitbook.io/auralex-ai",
+                              to: "https://docs.auralexai.org",
                               children: (0, ga.jsx)("button", {
                                 className:
                                   "bg-[#ffffff1f] backdrop-blur-[12px] text-white rounded-[6rem] h-[46px] px-[1.5rem] border border-[#ffffff1f] text-sm font-medium",
@@ -24191,7 +24191,7 @@
                             (0, ga.jsx)(ou, {
                               target: "_blank",
                               rel: "noopener noreferrer",
-                              to: "https://auralex-ai.gitbook.io/auralex-ai",
+                              to: "https://docs.auralexai.org",
                               children: (0, ga.jsx)("h5", {
                                 children: "Whitepaper",
                               }),
@@ -24252,7 +24252,7 @@
                             (0, ga.jsx)(ou, {
                               target: "_blank",
                               rel: "noopener noreferrer",
-                              to: "https://auralex-ai.gitbook.io/auralex-ai",
+                              to: "https://docs.auralexai.org",
                               children: (0, ga.jsx)("button", {
                                 className:
                                   "bg-[#ffffff1f] backdrop-blur-[12px] text-white rounded-[6rem] h-[46px] px-[1.5rem] border border-[#ffffff1f] text-sm font-medium",
@@ -24264,7 +24264,7 @@
                             (0, ga.jsx)(ou, {
                               target: "_blank",
                               rel: "noopener noreferrer",
-                              to: "https://x.com/Auralexaieth",
+                              to: "https://x.com/AuralexAIDefi",
                               children: (0, ga.jsx)("button", {
                                 className:
                                   "bg-[#ffffff1f] backdrop-blur-[12px] text-white rounded-[6rem] h-[46px] px-[1.5rem] border border-[#ffffff1f] text-sm font-medium",

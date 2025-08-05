@@ -65,7 +65,7 @@ export default function Steps() {
             </h2>
             <div className="absolute top-0 bg-[#ff6512] blur-[100px] w-[200px] md:w-[500px]  h-[70px] rounded-full"></div>
           </div>
-          <a href="https://app.auralexai.com/" rel="noreferrer" target="_blank">
+          <a href="https://app.auralexai.org/" rel="noreferrer" target="_blank">
             <motion.button
               whileHover={{
                 scale: 1.05,

@@ -15,7 +15,7 @@ export default function CTA() {
             trial today and experience the difference.
           </p>
      
-          <a href="https://app.auralexai.com" target="_blank">
+          <a href="https://app.auralexai.org" target="_blank">
           <motion.button
             whileHover={{
               scale: 1.05,

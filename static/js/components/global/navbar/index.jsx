@@ -53,7 +53,7 @@ export default function Navbar() {
           <Link
             target="_blank"
             rel="noopener noreferrer"
-            to="https://auralex-ai.gitbook.io/auralex-ai"
+            to="https://docs.auralexai.org"
             className="hover:text-white transition-colors duration-300"
           >
             <h5>Whitepaper</h5>
@@ -91,7 +91,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="https://x.com/Auralexaieth"
+            href="https://x.com/AuralexAIDefi"
             className="hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110"
             target="_blank"
             rel="noopener noreferrer"
@@ -99,7 +99,7 @@ export default function Navbar() {
             <FaXTwitter size={24} />
           </a>
           <a
-            href="https://t.me/Auralexai"
+            href="https://t.me/AuralexAIDefi"
             className="hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110"
             target="_blank"
             rel="noopener noreferrer"
@@ -146,7 +146,7 @@ export default function Navbar() {
           <Link
             target="_blank"
             rel="noopener noreferrer"
-            to="https://auralex-ai.gitbook.io/auralex-ai"
+            to="https://docs.auralexai.org"
             className="text-[#C2C2C2] hover:text-white transition-colors"
           >
             <h5>Whitepaper</h5>
@@ -162,7 +162,7 @@ export default function Navbar() {
 
           <div className="flex gap-4 items-center md:pb-0 pb-5 text-white">
             <a
-              href="https://x.com/Auralexaieth"
+              href="https://x.com/AuralexAIDefi"
               className="hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110"
               target="_blank"
               rel="noopener noreferrer"
@@ -170,7 +170,7 @@ export default function Navbar() {
               <FaXTwitter size={24} />
             </a>
             <a
-              href="https://t.me/Auralexai"
+              href="https://t.me/AuralexAIDefi"
               className="hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110"
               target="_blank"
               rel="noopener noreferrer"
