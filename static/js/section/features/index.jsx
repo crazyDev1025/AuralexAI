@@ -64,7 +64,7 @@ export default function Features() {
       video: realtimevideo,
       title: "Real-Time Trending Tokens",
       description:
-        "Don't get left behind. Our dynamic carousel spotlights the hottest tokens, tracking 24-hour price surges, volume spikes, and social buzz. Catch the next moonshot before it takes off. CA:0xcomingsoon",
+        "Don't get left behind. Our dynamic carousel spotlights the hottest tokens, tracking 24-hour price surges, volume spikes, and social buzz. Catch the next moonshot before it takes off. CA:0x56c34aa140a2fe4f7385fd6ac2c2aaccfc135a15",
     },
     {
       image: uncover,

@@ -22515,7 +22515,7 @@
                 (0, ga.jsx)("a", {
                   className:
                     "cursor-pointer hover:text-white transition-colors duration-300",
-                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0x56c34aa140a2fe4f7385fd6ac2c2aaccfc135a15",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   children: (0, ga.jsx)("h5", { children: "Chart" }),
@@ -22534,7 +22534,7 @@
                 "md:flex hidden gap-4 items-center md:pb-0 pb-5 text-white",
               children: [
                 (0, ga.jsx)("a", {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x56c34aa140a2fe4f7385fd6ac2c2aaccfc135a15",
                   target: "_blank",
                   children: (0, ga.jsx)("button", {
                     className:
@@ -22601,7 +22601,7 @@
               }),
               (0, ga.jsx)("a", {
                 className: "text-[#C2C2C2] hover:text-white transition-colors",
-                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x56c34aa140a2fe4f7385fd6ac2c2aaccfc135a15",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 children: (0, ga.jsx)("h5", { children: "Chart" }),
@@ -22825,7 +22825,7 @@
           video: cc,
           title: "Real-Time Trending Tokens",
           description:
-            "Don't get left behind. Our dynamic carousel spotlights the hottest tokens, tracking 24-hour price surges, volume spikes, and social buzz. Catch the next moonshot before it takes off. CA:0xcomingsoon",
+            "Don't get left behind. Our dynamic carousel spotlights the hottest tokens, tracking 24-hour price surges, volume spikes, and social buzz. Catch the next moonshot before it takes off. CA:0x56c34aa140a2fe4f7385fd6ac2c2aaccfc135a15",
         },
         {
           image: ic,

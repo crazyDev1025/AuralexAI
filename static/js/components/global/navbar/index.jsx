@@ -60,7 +60,7 @@ export default function Navbar() {
           </Link>
           <a
             className="cursor-pointer hover:text-white transition-colors duration-300"
-            href="https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon"
+            href="https://www.dextools.io/app/en/ether/pair-explorer/0x56c34aa140a2fe4f7385fd6ac2c2aaccfc135a15"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -82,7 +82,7 @@ export default function Navbar() {
 
         <div className="md:flex hidden gap-4 items-center md:pb-0 pb-5 text-white">
           <a
-            href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon"
+            href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x56c34aa140a2fe4f7385fd6ac2c2aaccfc135a15"
             target="_blank"
           >
             <button className="bg-[#ffffff1f] hover:bg-[#ffffff3d] hover:scale-105 hover:shadow-lg backdrop-blur-[12px] text-white rounded-[6rem] h-[46px] px-[1.5rem] border border-[#ffffff1f] text-sm font-medium transition-all ease-linear duration-[250ms]">
@@ -153,7 +153,7 @@ export default function Navbar() {
           </Link>
           <a
             className="text-[#C2C2C2] hover:text-white transition-colors"
-            href="https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon"
+            href="https://www.dextools.io/app/en/ether/pair-explorer/0x56c34aa140a2fe4f7385fd6ac2c2aaccfc135a15"
             target="_blank"
             rel="noopener noreferrer"
           >
