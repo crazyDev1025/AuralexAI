@@ -91,7 +91,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="https://x.com/AuralexAIDefi"
+            href="https://x.com/AURAI_Defi"
             className="hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110"
             target="_blank"
             rel="noopener noreferrer"
@@ -99,7 +99,7 @@ export default function Navbar() {
             <FaXTwitter size={24} />
           </a>
           <a
-            href="https://t.me/AuralexAIDefi"
+            href="https://t.me/AURAI_Defi"
             className="hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110"
             target="_blank"
             rel="noopener noreferrer"
@@ -162,7 +162,7 @@ export default function Navbar() {
 
           <div className="flex gap-4 items-center md:pb-0 pb-5 text-white">
             <a
-              href="https://x.com/AuralexAIDefi"
+              href="https://x.com/AURAI_Defi"
               className="hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110"
               target="_blank"
               rel="noopener noreferrer"
@@ -170,7 +170,7 @@ export default function Navbar() {
               <FaXTwitter size={24} />
             </a>
             <a
-              href="https://t.me/AuralexAIDefi"
+              href="https://t.me/AURAI_Defi"
               className="hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110"
               target="_blank"
               rel="noopener noreferrer"

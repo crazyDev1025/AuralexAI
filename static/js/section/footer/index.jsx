@@ -102,7 +102,7 @@ export default function Footer() {
                   <Link
                     target="_blank"
                     rel="noopener noreferrer"
-                    to="https://x.com/AuralexAIDefi"
+                    to="https://x.com/AURAI_Defi"
                   >
                     <button className="bg-[#ffffff1f] backdrop-blur-[12px] text-white rounded-[6rem] h-[46px] px-[1.5rem] border border-[#ffffff1f] text-sm font-medium">
                       <img src={twitter} alt="footer" />

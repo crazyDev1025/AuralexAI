@@ -22543,7 +22543,7 @@
                   }),
                 }),
                 (0, ga.jsx)("a", {
-                  href: "https://x.com/AuralexAIDefi",
+                  href: "https://x.com/AURAI_Defi",
                   className:
                     "hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110",
                   target: "_blank",
@@ -22551,7 +22551,7 @@
                   children: (0, ga.jsx)(Ju, { size: 24 }),
                 }),
                 (0, ga.jsx)("a", {
-                  href: "https://t.me/AuralexAIDefi",
+                  href: "https://t.me/AURAI_Defi",
                   className:
                     "hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110",
                   target: "_blank",
@@ -22610,7 +22610,7 @@
                 className: "flex gap-4 items-center md:pb-0 pb-5 text-white",
                 children: [
                   (0, ga.jsx)("a", {
-                    href: "https://x.com/AuralexAIDefi",
+                    href: "https://x.com/AURAI_Defi",
                     className:
                       "hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110",
                     target: "_blank",
@@ -22618,7 +22618,7 @@
                     children: (0, ga.jsx)(Ju, { size: 24 }),
                   }),
                   (0, ga.jsx)("a", {
-                    href: "https://t.me/AuralexAIDefi",
+                    href: "https://t.me/AURAI_Defi",
                     className:
                       "hover:text-[#ff6512] transition-colors duration-300 transform hover:scale-110",
                     target: "_blank",
@@ -24264,7 +24264,7 @@
                             (0, ga.jsx)(ou, {
                               target: "_blank",
                               rel: "noopener noreferrer",
-                              to: "https://x.com/AuralexAIDefi",
+                              to: "https://x.com/AURAI_Defi",
                               children: (0, ga.jsx)("button", {
                                 className:
                                   "bg-[#ffffff1f] backdrop-blur-[12px] text-white rounded-[6rem] h-[46px] px-[1.5rem] border border-[#ffffff1f] text-sm font-medium",
